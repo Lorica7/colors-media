@@ -67,19 +67,19 @@ footer {
 
 @media (min-width: 768px) {
     header {
-        background-color: ;
+        background-color: #99d3df;
     }
     #column-1 {
-        background-color: ;
+        background-color: #cdcdcd;
     }
     #column-2 {
-        background-color: ;
+        background-color: #88bbd6;
     }
     #column-3 {
-        background-color: ;
+        background-color: #e9e9e9;
     }
     footer {
-        background-color: ;
+        background-color: #99d3df;
     }
 }
 
@@ -88,18 +88,18 @@ footer {
 
 @media (min-width: 1200px) {
     header {
-        background-color: ;
+        background-color: #fabd03;
     }
     #column-1 {
-        background-color: ;
+        background-color: #7cdbd5;
     }
     #column-2 {
-        background-color: ;
+        background-color: #00444f;
     }
     #column-3 {
-        background-color: ;
+        background-color: #f33440;
     }
     footer {
-        background-color: ;
+        background-color: #05c7a8;
     }
 }
